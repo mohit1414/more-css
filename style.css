@@ -21,14 +21,16 @@ body{
 }
 
 .topic{
+    border: 1px solid purple;
     position: sticky;
     background: black;
     color: white;
-    border-radius: 10px;
+    border-radius: 15px;
     padding:10px ;
     top: 10px;
 }
 p{
+    color: black;
     font-weight: 500;
 }
 
@@ -40,7 +42,7 @@ p{
     padding: 10px;
     border: 1px solid purple;
     border-radius: 14px;
-    padding:10px 20px;
+    padding:10px 30px;
     color: white;
 }
 
